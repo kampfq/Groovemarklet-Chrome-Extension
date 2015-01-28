@@ -1,6 +1,6 @@
 ##
 
-A Chrome-Extension for [http://martijnbrekelmans.com/SMG/groovemarklet.php](groovemarklet)
+A Chrome-Extension for <http://martijnbrekelmans.com/SMG/groovemarklet.php>
 
 ##
 Icon is from http://www.happyiconstudio.com/
