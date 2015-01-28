@@ -3,7 +3,7 @@
     "version": "0.1",
     "manifest_version": 2,
     "description": "Groovemarklet for Chrome",
-    "homepage_url": "http://kampfq.eu",
+    "homepage_url": "https://github.com/kampfq/Groovemarklet-Chrome-Extension",
     "background": {
         "scripts": [
       "background.js"
