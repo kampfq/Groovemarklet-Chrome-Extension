@@ -15,6 +15,7 @@ A Chrome-Extension for <http://martijnbrekelmans.com/SMG/groovemarklet.php>
 * soundcloud
 * play.google
 * music.sonyentertainmentnetwork (Music Unlimited)
+* plug.dj
 
 ##
 Icon is from http://www.happyiconstudio.com/
