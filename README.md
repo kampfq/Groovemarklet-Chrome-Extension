@@ -14,8 +14,11 @@ A Chrome-Extension for <http://martijnbrekelmans.com/SMG/groovemarklet.php>
 * 8tracks
 * soundcloud
 * play.google
-* music.sonyentertainmentnetwork (Music Unlimited)
 * plug.dj
+* rdio
+* youtify
+* deezer
+* youtube (experimental)
 
 ##
 Icon is from http://www.happyiconstudio.com/
