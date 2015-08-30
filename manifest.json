@@ -1,6 +1,6 @@
 {
     "name": "Groovemarklet",
-    "version": "0.2",
+    "version": "0.4",
     "manifest_version": 2,
     "description": "Groovemarklet for Chrome",
     "homepage_url": "https://github.com/kampfq/Groovemarklet-Chrome-Extension",
