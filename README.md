@@ -8,17 +8,23 @@ A Chrome-Extension for <http://martijnbrekelmans.com/SMG/groovemarklet.php>
 
 ##working on
 
-* grooveshark:
+*  [NEW] Vkontakte
+*  [NEW] Dubtrack
+*  [NEW] microsoftMusic
+
+* grooveshark
 * pandora
 * zaycev
 * 8tracks
 * soundcloud
-* play.google
 * plug.dj
 * rdio
 * youtify
 * deezer
-* youtube (experimental)
+* youtube 
+* play.google
+* Mixcloud
+
 
 ##
 Icon is from http://www.happyiconstudio.com/
