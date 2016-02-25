@@ -8,10 +8,9 @@ A Chrome-Extension for <http://martijnbrekelmans.com/SMG/groovemarklet.php>
 
 ##working on
 
-*  [NEW] Vkontakte
-*  [NEW] Dubtrack
-*  [NEW] microsoftMusic
-
+* [NEW] Vkontakte
+* [NEW] Dubtrack
+* [NEW] microsoftMusic
 * grooveshark
 * pandora
 * zaycev
@@ -25,7 +24,7 @@ A Chrome-Extension for <http://martijnbrekelmans.com/SMG/groovemarklet.php>
 * play.google
 * Mixcloud
 
-
-##
+## Addition
 Icon is from http://www.happyiconstudio.com/
 Extension is inspired by https://gist.github.com/danharper/8364399
+injects https://martijnbrekelmans.com/SMG/groovemarklet-release.js
