@@ -1,3 +1,7 @@
+## Deprecated
+
+Will be replaced by: https://chrome.google.com/webstore/detail/smg-music-display/onebnnoonaadbbdoanmpehnfmhdolmgh
+
 ##
 
 A Chrome-Extension for <http://martijnbrekelmans.com/SMG/groovemarklet.php>
